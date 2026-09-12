@@ -1,3 +1,6 @@
+<img width="927" height="682" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/05499b61-1ea6-4d87-88f8-5400581af968" />
+<img width="1872" height="945" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/58f34fdd-1a0a-4091-8681-3dceff4d68e4" />
+
 # Smart_Power_Quality_Analyzer_Using_Signal_Processing_Machine_Learning_and_ThingSpeak
 A cloud-enabled Smart Power Quality Analyzer developed in MATLAB that combines Digital Signal Processing (DSP), feature extraction, FFT and THD analysis, and comparative evaluation of Random Forest, SVM, and KNN classifiers for automatic power quality disturbance classification. ThingSpeak is integrated for cloud-based data monitoring.
 # Smart Power Quality Analyzer Using DSP, Machine Learning, and Cloud Integration
@@ -25,3 +28,4 @@ MATLAB, Digital Signal Processing (DSP), Fast Fourier Transform (FFT), Total Har
 - Random Forest – Accuracy: 99.29%
 
 The Random Forest model achieved the highest classification accuracy and was selected as the most suitable model for automatic power quality disturbance detection.
+
