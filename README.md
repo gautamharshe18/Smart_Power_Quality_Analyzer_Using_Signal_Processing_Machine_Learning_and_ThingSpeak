@@ -1,0 +1,2 @@
+# Smart_Power_Quality_Analyzer_Using_Signal_Processing_Machine_Learning_and_ThingSpeak
+A cloud-enabled Smart Power Quality Analyzer developed in MATLAB that combines Digital Signal Processing (DSP), feature extraction, FFT and THD analysis, and comparative evaluation of Random Forest, SVM, and KNN classifiers for automatic power quality disturbance classification. ThingSpeak is integrated for cloud-based data monitoring.
